@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/brettarnold/.local/share/virtualenvs/todo_app_django-8AAOtL1o/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "autopep8",
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
